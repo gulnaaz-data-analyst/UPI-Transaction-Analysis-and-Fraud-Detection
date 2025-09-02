@@ -79,5 +79,11 @@ Here’s a snapshot of my dashboard:
 
 ![Dashboard Screenshot](https://github.com/gulnaaz-data-analyst/UPI-Transaction-Analysis-and-Fraud-Detection/blob/fc633ccfe0f2f2ee65246ffa4011ff01c5d9c8e7/UPI_Transaction_Analysis_Dashboard.png)
 
+# 📊 UPI Transaction Analysis & Fraud Detection
+ Dashboard Preview
+
+![UPI Dashboard](https://github.com/gulnaaz-data-analyst/UPI-Transaction-Analysis-and-Fraud-Detection/blob/dc3a2ced528b924ae69586a86a32bab861620a95/UPI_Fraud_Detection_Dashboard.png)
+
+
 
 
