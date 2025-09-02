@@ -1,4 +1,4 @@
-# 📊 UPI Transactions and Fraud Analysis  
+# 📊 UPI Transactions Analysis And Fraud Detection  
 
 ## 📌 Project Overview  
 UPI (Unified Payments Interface) is one of the fastest-growing digital payment systems in India. While adoption is rising, so are fraud risks.  
