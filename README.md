@@ -76,4 +76,4 @@ The dataset combines transactions, demographics, and fraud details:
 # 📊 UPI Transaction Analysis Dashboard
 
 Here’s a snapshot of my dashboard:
- https://github.com/gulnaaz-data-analyst/UPI-Transaction-Analysis-and-Fraud-Detection/blob/main/UPI_Transaction_Analysis_Dashboard.png?raw=true
+![Dashboard Screenshot](https://github.com/gulnaaz-data-analyst/UPI-Transaction-Analysis-and-Fraud-Detection/blob/fc633ccfe0f2f2ee65246ffa4011ff01c5d9c8e7/UPI_Transaction_Analysis_Dashboard.png)
